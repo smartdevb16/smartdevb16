@@ -1,7 +1,6 @@
 
-###★★★ It will come true if you work hard to achieve the dream ★★★
+### ★★★ It will come true if you work hard to achieve the dream ★★★
 
-<br>
 
 With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.
 
