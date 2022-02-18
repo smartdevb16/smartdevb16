@@ -1,5 +1,7 @@
+
 ★★★ It will come true if you work hard to achieve the dream ★★★
 
+<br>
 
 With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.
 
@@ -10,8 +12,4 @@ Core skills
 🐱‍🐉 CMS : Wordpress, Shopify
 📫 Programming-languages : JavaScript / HTML / CSS / PHP / Python / C++ / C# / Go
 👋 Blockchain : Smart contract / Solidity / NFT / DeFi / dApp / Ethereum / Solana
-
-
-Languages and Tools
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
  
