@@ -1,5 +1,5 @@
 
-★★★ It will come true if you work hard to achieve the dream ★★★
+###★★★ It will come true if you work hard to achieve the dream ★★★
 
 <br>
 
