@@ -10,3 +10,7 @@ With over 7 years of rich development experience on projects ranging from small 
 ✔ CMS : Wordpress, Shopify <br>
 ✔ Programming-languages : JavaScript / HTML / CSS / PHP / Python / C++ / C# / Go <br>
 ✔ Blockchain : Smart contract / Solidity / NFT / DeFi / dApp / Ethereum / Solana 
+
+Skype : live:.cid.6e6e81b5c4b31216 <br>
+Discord : smartdev#5666 <br>
+Telegram : smartdev16
