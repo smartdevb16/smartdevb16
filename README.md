@@ -13,4 +13,4 @@ With over 7 years of rich development experience on projects ranging from small 
 
 Telegram : smartdev16 <br>
 Discord : smartdev#5666 <br>
-Gmail : live:.cid.6e6e81b5c4b31216
+Skype : live:.cid.6e6e81b5c4b31216
